@@ -1,0 +1,10 @@
+{
+  "description": "Explore and learn IPA pronunciations effortlessly with a cozy soundboard featuring beautifully designed tiles for each sound, perfect for language enthusiasts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
